@@ -9,6 +9,7 @@
 <p align="center">
 <a href="https://twitter.com/wwgamestudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wwgamestudio" height="30" width="40" /></a>
 <a href="https://instagram.com/white.wolf.game.studio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="white.wolf.game.studio" height="30" width="40" /></a>
+<a href="https://discord.gg/84JS7ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="84JS7ps" height="30" width="40" /></a>
 </p>
 
 <br />
