@@ -2,9 +2,7 @@
 
 <!-- <h1 align="center">Hi 👋,we are White Wolf Studio</h1> -->
 <h3 align="center">We are a game studio, the most important thing for us is multiplatform games. For us, everyone is part of the team, part of the family.</h3>
-
 <br />
-
 <h1></h1>
 
 <h3 align="center">Connect with us:</h3>
