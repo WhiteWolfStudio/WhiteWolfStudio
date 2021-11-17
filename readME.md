@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1d242b&height=300&section=header&text=White%20Wolf%20Studio&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=White%20Wolf%20Studio&fontSize=90&animation=fadeIn)
 
 <!-- <h1 align="center">Hi 👋,we are White Wolf Studio</h1> -->
 <h3 align="center">We are a game studio, the most important thing for us is multiplatform games. For us, everyone is part of the team, part of the family.</h3>
